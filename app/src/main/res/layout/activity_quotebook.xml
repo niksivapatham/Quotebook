@@ -20,11 +20,11 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
     <TextView
-        android:text=""
+        android:text="Created By Cool Kids Aditya and Nikhil"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-medium"
-        android:textSize="26sp"
+        android:textSize="20sp"
         android:gravity="end"
         android:textColor="#ff767676"
         android:layout_gravity="center"
