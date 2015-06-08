@@ -33,6 +33,7 @@ public class Quotebook extends ActionBarActivity {
         Quote quote3;
         quote3 = new Quote("That's like me blaming owls for how bad I suck at analogies.", "Britta Perry");
                 quoteList.add(quote3);
+        /* Dumb */
         Quote quote5 = new Quote("I was gonna be the first person in my family to graduate from community college. Everyone else graduated from normal college", "Troy Barnes");
         quoteList.add(quote5);
         touch.setOnClickListener(new View.OnClickListener() {
